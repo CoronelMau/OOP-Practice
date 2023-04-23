@@ -1,0 +1,12 @@
+{
+  "name": "cuentasbanco",
+  "version": "1.0.0",
+  "description": "Gestión de cuentas corrientes del banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauricio Coronel",
+  "license": "ISC",
+  "type": "module"
+}
